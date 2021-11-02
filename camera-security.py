@@ -3,6 +3,7 @@ import time
 import datetime
 
 def main():
+    print("press q to exit camera")
     print("language >:")
     print("1.indonesian")
     print("2.english")
